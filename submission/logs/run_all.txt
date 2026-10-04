@@ -1,0 +1,12 @@
+Running 8 notebooks with C:\CODE\AITHUCCHIEN\LABS\K4-Track02-Day18-LamHoangPhuc-2A202602582-Lakehouse-Lab\.venv\Scripts\python.exe
+
+  PASS  01_delta_basics.py                  0.9s
+  PASS  02_optimize_zorder.py              16.0s
+  PASS  03_time_travel.py                   1.1s
+  PASS  04_medallion.py                     1.8s
+  PASS  05_iceberg_catalog.py               2.6s
+  PASS  06_maintenance.py                  16.3s
+  PASS  07_vectors_multimodal.py            1.2s
+  PASS  08_agents_provenance.py             2.3s
+
+8/8 passed in 42.2s

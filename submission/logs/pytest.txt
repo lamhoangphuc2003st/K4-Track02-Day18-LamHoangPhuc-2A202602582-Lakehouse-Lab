@@ -1,0 +1,11 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: C:\CODE\AITHUCCHIEN\LABS\K4-Track02-Day18-LamHoangPhuc-2A202602582-Lakehouse-Lab
+configfile: pytest.ini
+testpaths: tests
+plugins: anyio-4.15.1, platformdirs-4.12.3
+collected 24 items
+
+tests\test_lab18.py ........................                             [100%]
+
+============================= 24 passed in 3.57s ==============================
